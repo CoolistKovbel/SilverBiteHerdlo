@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Eketor Park
 
-## Getting Started
 
-First, run the development server:
+This is going going to be a small collection featuring a phantom who is bound to protect her dogs, you will be able to mint the nft you will be able to own your unique part of the collection as well as be able to stake it to earn some rewards if you want. there will be a reward token assiciated with this dApp where you will be able to get it straight from the contract, exchange it for ether for the token.... 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This erc-20 token is the fuel on the app, you will be able to play a certain game that will hopefully laucnh with the project in a few weeks. As well as send it to a vault to earn interest. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+There will be a few more connections and actieves that are to come, if you are looking to see what can happen be sure to purchase the nft as well as token to show your support, itll make me feel a little a live and happy to get things going again.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+0x44C086a84398fB0Be95fB09C07CA51Df501713eE

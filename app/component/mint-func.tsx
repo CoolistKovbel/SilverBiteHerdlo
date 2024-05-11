@@ -1,24 +1,9 @@
-import Image from "next/image";
-import Link from "next/link";
+import Image from 'next/image'
+import React from 'react'
 
-export default function Home() {
+const MintFunc = () => {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-10">
-      {/* main header */}
-      <header className="w-full flex items-center justify-between">
-        <h1 className="text-3xl bg-[#000] p-3">Eketoro Park</h1>
-
-        <nav className="items-center flex gap-4  w-[80%]">
-          <Link href="/">home</Link>
-          <Link href="/about">about</Link>
-          <Link href="/contact">contact</Link>
-          <Link href="/dog">---</Link>
-        </nav>
-      </header>
-
-
-      {/* Mint */}
-      <section>
+    <section>
         <header className="w-full flex items-center gap-4">
           <div className="p-4 bg-[#222] w-full">
             <h2 className="text-2xl ">PhantomBisket Collection</h2>
@@ -45,7 +30,7 @@ export default function Home() {
           <button className="bg-[#222] p-4 font-bold text-xl">mint</button>
         </form>
       </section>
-      
-    </main>
-  );
+  )
 }
+
+export default MintFunc
