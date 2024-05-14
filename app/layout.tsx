@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PlayHouseDoo",
-  description: "Welcome to PlayHouseDoo where you are welcomed to mint a erc-721, earn rewards, and be able to trade tokens.",
+  title: "SilverBiteHerdlo",
+  description: "Welcome to SilverBiteHerdlo where you are welcomed to mint a erc-721, earn rewards, and be able to trade tokens.",
 };
 
 export default function RootLayout({
