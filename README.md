@@ -1,4 +1,4 @@
-# SilverBiteHerdlo
+# Etyvo
 
 This is going going to be a small collection featuring a phantom who is bound to protect her dogs, you will be able to mint the nft you will be able to own your unique part of the collection as well as be able to stake it to earn some rewards if you want. there will be a reward token assiciated with this dApp where you will be able to get it straight from the contract, exchange it for ether for the token....
 
